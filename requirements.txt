@@ -1,0 +1,12 @@
+atomicwrites==1.4.0
+attrs==20.3.0
+importlib-metadata==3.3.0
+more-itertools==8.6.0
+packaging==20.8
+pluggy==0.13.1
+py==1.10.0
+pyparsing==2.4.7
+pytest==4.6.0
+six==1.15.0
+wcwidth==0.2.5
+zipp==3.4.0

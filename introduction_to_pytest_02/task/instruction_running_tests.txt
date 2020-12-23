@@ -1,0 +1,9 @@
+1. git clone https://github.com/KorkhovPavel/project_qa.git
+2. cd project_qa/introduction_to_pytest_02/task/
+3. python -m venv venv
+4. source */bin/activate
+5. running tests with command 'pytest -s test_task.py'
+6. deactivate
+
+
+

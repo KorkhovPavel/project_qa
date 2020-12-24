@@ -29,4 +29,3 @@ def session_fixture(request):
         print(f"\n session_fixture end of test")
 
     request.addfinalizer(fin)
-

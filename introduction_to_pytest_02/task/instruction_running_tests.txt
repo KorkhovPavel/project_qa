@@ -2,8 +2,9 @@
 2. cd project_qa/introduction_to_pytest_02/task/
 3. python -m venv venv
 4. source */bin/activate
-5. running tests with command 'pytest -s test_task.py'
-6. deactivate
+5. pip3 install -r requirements.txt
+6. running tests with command 'pytest -s test_task.py'
+7. deactivate
 
 
 

@@ -51,7 +51,7 @@ class TestDog:
                              [(0, 'False'), (1, 'False'), (2, 'False'), (197, 'True'), (198, 'True'), (199, 'False')])
     def test_checking_task(self, parser_api_fixture_jsonplaceholder, num, appraisal):
         """
-        check task
+        check test_task
         :param parser_api_fixture_jsonplaceholder:
         :param num:
         :return:
